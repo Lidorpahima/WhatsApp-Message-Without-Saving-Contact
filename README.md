@@ -3,19 +3,51 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+    <title>WhatsApp Without Saving Number</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        h2 {
+            color: #555;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        pre {
+            background: #eee;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        ul {
+            padding-left: 20px;
+        }
+    </style>
 </head>
 <body>
     <div class="container">
         <h1>WhatsApp Without Saving Number</h1>
-        <img src="![image](https://github.com/user-attachments/assets/615d32a8-e96f-467f-8293-8546d7d0ceb8)
-![Uploading image.png…]()
-" alt="WhatsApp Without Saving Number">
+        <img src="https://i.ibb.co/RY39kyD/image.png" alt="WhatsApp Without Saving Number">
         <h2>Description</h2>
         <p>
             Have you ever wanted to send a message on WhatsApp to a phone number without saving it to your contacts? 
-            Many users face this inconvenience when they need to communicate with someone quickly, such as a business contact or a new acquaintance. 
-            The "WhatsApp Without Saving Number" application solves this problem by allowing you to generate a direct link to send a message, bypassing the need to save the number first.
+            Many users face this inconvenience when they need to communicate quickly with someone, such as a business contact or a new acquaintance. 
+            The "WhatsApp Without Saving Number" application addresses this issue by allowing you to generate a direct link to send a message, eliminating the need to save the number first.
         </p>
         <h2>How It Works</h2>
         <p>
@@ -34,21 +66,15 @@
         <h2>Usage Instructions</h2>
         <ol>
             <li>Run the application by double-clicking on the executable file.</li>
-            <li>In the input field, enter the phone number you wish to contact (it must be 10 digits).</li>
+            <li>Enter the phone number (10 digits, excluding the country code).</li>
             <li>Click the "Generate Link" button.</li>
-            <li>Copy the generated link, which will open a chat with the specified number in WhatsApp.</li>
+            <li>Copy the generated link and send it via WhatsApp to start a chat.</li>
         </ol>
-        <h2>Benefits</h2>
-        <p>
-            This tool is perfect for individuals and businesses alike who want to streamline their communication process. 
-            Instead of saving every number temporarily, you can easily connect with people on WhatsApp and keep your contacts organized.
-        </p>
         <h2>Contributions</h2>
-        <p>
-            Contributions are welcome! If you have suggestions for improvements or new features, feel free to submit issues or open pull requests.
-        </p>
+        <p>If you would like to contribute to this project, feel free to submit issues or open pull requests.</p>
+
         <h2>License</h2>
-        <p></p>
+        <p>MIT License</p>
     </div>
 </body>
 </html>
