@@ -3,41 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WhatsApp Without Saving Number</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 20px;
-        }
-        h1 {
-            color: #333;
-        }
-        h2 {
-            color: #555;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-        .container {
-            max-width: 800px;
-            margin: auto;
-            background: white;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        pre {
-            background: #eee;
-            padding: 10px;
-            border-radius: 5px;
-        }
-        ul {
-            padding-left: 20px;
-        }
-    </style>
+    
+    
 </head>
 <body>
     <div class="container">
